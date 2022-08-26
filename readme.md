@@ -1,14 +1,8 @@
-Responsive Street Style Landing Page designed using pure Html and Css.
+# Rode website Clone.
 
-## Concepts and Learnings
+## Concepts and Skills Gained
 
-- Positioning in css
-    - Absolute
-    - Relative
-    - Static
-- Pseudo selectors
-- Image size and Positioning
-- Flexbox
+- Tailwind CSS
 
 ## Landing Page Snapshot
 ![Snapshot](/images/screenshot.png)
@@ -21,6 +15,12 @@ Please check the Live Demo of the Designed Landing Page using the Below Link:-)
 
 ![lIVE-dEMO](https://img.shields.io/badge/Live_Demo-<COLOR>)
 
-[Live-Demo](https://visual-designer-landing.netlify.app/)
+[Live-Demo](https://rode-clone-pg.netlify.app)
+
+## Time taken to finish this project
+
+⏰- 2 days taken to complete it.
 
 ## Designed By Patil Pratiksha
+
+
